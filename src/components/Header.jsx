@@ -7,6 +7,7 @@ const Header = () => {
           <h1><a href="/" className='text-light text-decoration-none py-5'>Net-Tv</a></h1>v;sjdv'jivj
           sljvhilgvlsfvh
       </div>
+      helo <span className="glyphicon glyphicon-usd"></span>
     </div>
   )
 }
